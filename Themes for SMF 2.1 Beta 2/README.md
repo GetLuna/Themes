@@ -10,6 +10,6 @@ Author: Vadym Volos
 - Кому нужно берите.
 
 Donate:  
-BTC:  
-ETH:  
-LTC:  
+- BTC:
+- ETH:
+- LTC:
