@@ -1,8 +1,8 @@
 # Themes
 Themes for WP
 
-Name theme: Twenty Fifteen Child Theme V
-Author: Vadym Volos
+Name theme: Twenty Fifteen Child Theme V  
+Author: Vadym Volos  
 
 - В левое меню с помощью css добавлен плавный эффект при наведении на текст в списке
 - В футер добавлено второе меню, когда даете рекламу нужно чтоб на сайте была политика конфидециальности и согласие с рассылкой, вот то меню для этих ссылок.
@@ -10,7 +10,7 @@ Author: Vadym Volos
 - Обновлять тему не буду.
 - Кому нужно берите.
 
-Donate:
-BTC:  
-ETH:  
-LTC:  
+Donate:  
+- BTC:  
+- ETH:  
+- LTC:  
