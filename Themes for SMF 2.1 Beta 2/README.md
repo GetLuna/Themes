@@ -8,7 +8,7 @@ Author: Vadym Volos
 - Обновлять тему не буду.
 - Кому нужно берите доделывайте.
 
-Donate: 
+Donate:  
 BTC:  
 ETH:  
 LTC:  
