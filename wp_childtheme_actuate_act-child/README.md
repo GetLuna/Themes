@@ -6,7 +6,7 @@ Author:       Vadym Volos
 Donate:       https://github.com/VadymVolos/Themes/blob/master/README.md  
 
 - Верхнее меню перекрашено (в файле style.css), @media only screen and (min-width: 1000px);
-- Ширина блока с контентом сделана по ширине верхено меню, @media only screen and (min-width: 1000px);
+- Ширина блока с контентом сделана по ширине верхенего меню, @media only screen and (min-width: 1000px);
 - Подключена папка с языками;
 - Сделан перевод на русский (30%);
 - В футере копирайт только ваш;
