@@ -1,11 +1,11 @@
 # Themes
 Themes for CMS
 
-- Themes for CMS Luna 2.0.0: fifteen-child-one  
-- Themes for CMS SMF 2.1 Beta 2: Theme-2  
-- Themes for CMS WP: twe-child (Twenty Fifteen)  
-- Themes for CMS WP: gar-child  
-- Themes for CMS WP: act-child  
+- Luna 2.0.0 Child Theme: fifteen-child-one  
+- SMF 2.1_beta2 Child Theme: Theme-2  
+- WP Child Theme: twe-child (Twenty Fifteen)  
+- WP Child Theme: gar-child  
+- WP Child Theme: act-child  
 
 
 Donate:  
