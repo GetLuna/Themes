@@ -1,12 +1,13 @@
-# WP child theme: Act-Child [Actuate]
+## WP child theme: Act-Child [Actuate]
 
 Mother theme: Actuate (https://wordpress.org/themes/actuate/)  
 Child theme:  Act-Child  
 Author:       Vadym Volos  
 Donate:       https://github.com/VadymVolos/Themes/blob/master/README.md  
 
-- Верхнее меню перекрашено в файле css
-- Подключена папка с языками
-- Сделан перевод на русский (30%)
-- В футере копирайт только ваш
+- Верхнее меню перекрашено (в файле style.css) (до ширины экрана 1000px);
+- Ширина блока с контентом сделана по ширине верхено меню (до ширины экрана 1000px);
+- Подключена папка с языками;
+- Сделан перевод на русский (30%);
+- В футере копирайт только ваш;
 - Папка дочерней темы называется по другому, потмому что при загрузке темы на https://wordpress.org/themes/getting-started/ если название совпадет с материским пишет такое: "You cannot use WordPress or theme in your theme name."
